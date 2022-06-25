@@ -1,2 +1,5 @@
 # Modelos-Mistos
-Neste projeto é apresentado o uso dos modelos mistos lineares e não lineares, modelos lineares e não lineares generalizados e regressão logística.
+
+Este repositório é destinado a apresentação do uso de modelos clássicos da regressão estatística. 
+
+Desta forma, é apresentado o uso dos modelos mistos e generalizados lineares e não lineares e também a regressão logística.
